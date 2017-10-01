@@ -10,3 +10,6 @@ This was added in the second commit.
 
 # commit 3
 This was added in the third commit. 
+
+# commit 4
+This is the final commit in this test.
